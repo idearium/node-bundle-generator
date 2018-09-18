@@ -4,10 +4,11 @@ Node Bundle Generator is a super simple way to generate webpack bundles.
 
 ## Usage
 
-To use this repo, update the following:
+To use this repo run `Yarn` to install the necessary dependencies.
+Then, update the following:
 
 - `index.js` with your own bundle code.
-- `webpack.config.js` with your preferred bundle key.
+- `webpack.config.js` with your preferred entry bundle key.
 
 Run `yarn build` and a file will be generated for you in the `dist` directory.
 
