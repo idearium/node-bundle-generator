@@ -1,0 +1,17 @@
+{
+  "name": "node-bundle-generator",
+  "version": "0.0.1",
+  "description": "Super simple webpack bundle generator",
+  "main": "index.js",
+  "repository": "https://github.com/idearium/node-bundle-generator",
+  "author": "Allan Chau <allan.chau@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "date-fns": "^2.0.0-alpha.16",
+    "webpack": "^4.19.0",
+    "webpack-cli": "^3.1.0"
+  }
+}
