@@ -1,5 +1,7 @@
 # node-bundle-generator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/idearium/node-bundle-generator.svg)](https://greenkeeper.io/)
+
 Node Bundle Generator is a super simple way to generate webpack bundles.
 
 ## Usage
